@@ -28,5 +28,5 @@
 * **WhatsApp:** [+7 (929) 976-99-98](https://wa.me/79299769998)
 * **Telegram:** [userconcept](https://t.me/userconcept)
 * **Behance:** [userconcept](https://www.behance.net/userconcept)
-* **Twitter:** [theuserconcept](https://twitter.com/theuserconcept)
+* **Twitter:** [userconceptart](https://twitter.com/userconceptart)
 * **Discord:** [userconcept](https://discord.gg/RCRwebCKHa)
