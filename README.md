@@ -16,8 +16,9 @@
 * **JavaScript: JavaScript, Next.js, Node.js, React, Redux, Redux Thunk, Redux Toolkit, RTK Query, React Query, React Hook Form, styled-components, Webpack, Vite, Gulp**
 * **TypeScript**
 * **REST API**
-* **Git**
+* **Express, Prisma, PostgreSQL**
 * **Docker**
+* **Git**
 * **BEM**
 * **WordPress**
 * **Figma, Inkscape, GIMP, Adobe Photoshop**
