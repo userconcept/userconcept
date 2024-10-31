@@ -6,15 +6,16 @@
 
 ### About:
 
-**Frontend and Web Design. Interested in Performance, Accessibility and Best Practices. Inspired by Trends, Creative Art and Modern Technologies.**
+**Frontend Developer, Software Engineer and MVP Expert with strong skills in Data Visualization, UI and UX. Interested in Performance, Accessibility and Best Practices. Inspired by Trends, Creative Art and Modern Technologies.**
 
 ### Technologies:
 
+* **JavaScript: JavaScript, Next.js, Node.js, React, Redux, Redux Thunk, Redux Toolkit, RTK Query, React Query, D3.js, React Hook Form, styled-components, Webpack, Vite, Gulp**
+* **TypeScript**
 * **HTML: HTML4/HTML5, WAI-ARIA, Pug/Jade, Handlebars, Emmet**
 * **CSS: SCSS, Sass, Stylus, PostCSS, CSS Animations**
 * **SVG: Symbols, Filters, Animations**
-* **JavaScript: JavaScript, Next.js, Node.js, React, Redux, Redux Thunk, Redux Toolkit, RTK Query, React Query, React Hook Form, styled-components, Webpack, Vite, Gulp**
-* **TypeScript**
+* **Storybook**
 * **REST API**
 * **Express, Prisma, PostgreSQL**
 * **Docker**
